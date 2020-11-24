@@ -6,11 +6,10 @@
 
 #feux{
 	width:60px;
-	height:200px;
+	height:180px;
 	border:1px solid silver;
 	border-radius:20px;
-	margin: 50px 0 0 100px;
-	
+	margin-left:100px;
 }
 .colors{
 	width:50px;
@@ -19,4 +18,50 @@
 	border-radius:50px;
 	margin:5px;
 	
+}
+#condit{
+	width:60px;
+	height:60px;
+	border:1px solid silver;
+	border-radius:20px;
+	margin: 20px 100px;	
+}
+#droit{
+	width:50px;
+	height:50px;
+	border:1px solid silver;
+	border-radius:50px;
+	margin:5px;
+}
+#droitIcon{
+	width:50px;
+	height:50px;
+	border-radius:50px;
+	
+}
+#pieton{
+	width:60px;
+	height:120px;
+	border:1px solid silver;
+	border-radius:20px;
+	margin:20px 100px;
+}
+.pi{
+	width:50px;
+	height:50px;
+	border:1px solid silver;
+	border-radius:50px;
+	margin:5px;
+}
+#dontw{
+	width:40px;
+	height:40px;
+	border-radius:40px;
+	margin:5px;
+}
+#w{
+	width:40px;
+	height:40px;
+	border-radius:40px;
+	margin:5px;
 }
