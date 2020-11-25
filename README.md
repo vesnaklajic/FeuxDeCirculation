@@ -6,6 +6,7 @@ Synchronisation de feux rouges.
  - un fichier HTML pour la structure 
   - un fichier CSS pour la style  
    - un fichier JS pour la coordination des feux
+   //getElementById; getElementsByClass; Timeout; Interval
 
 Techno:
 Javascript
